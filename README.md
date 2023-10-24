@@ -1,2 +1,1 @@
-# MidtermProject
-Midterm Project for HTML / CSS / JavaScript
+# CISW 17 Midterm Starter Files
